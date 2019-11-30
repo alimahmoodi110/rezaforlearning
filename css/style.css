@@ -3,7 +3,14 @@ p {
     font-family: BHoma;
 }
 
+h1 {
+    color: green;
+    font-family: BTitr;
+}
+
 @font-face {
     font-family: BHoma;
     src: url(../font/BHoma.ttf);
+    font-family: BTitr;
+    src: url(../font/fonts/XB\ Titre\ Shadow.ttf);
 }
