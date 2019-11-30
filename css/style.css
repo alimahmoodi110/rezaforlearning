@@ -1,3 +1,9 @@
-p{
-    color:red;
+p {
+    color: red;
+    font-family: BHoma;
+}
+
+@font-face {
+    font-family: BHoma;
+    src: url(../font/BHoma.ttf);
 }
